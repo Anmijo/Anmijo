@@ -6,8 +6,8 @@
 
 ### Projects
 
-| Title | Description | Status | Future Steps |
-| --- | --- | --- | --- |
+| Title | Description |
+| --- | --- | 
 | [Plant-Timelapse](https://github.com/garamizo/Plant-Timelapse) | Records a timelapse of a plant and saves to a cloud storage | completed | Access timelapse from internet |
 | [Automated-Window-Blinds](https://github.com/garamizo/Automated-Window-Blinds) | Window blinds with hidden mechanism controlled over the cloud and Alexa commands |  completed | Replace motor for faster operation |
 | [xmas-lights](https://github.com/garamizo/xmas-lights) | Animates a Christmas tree with colorful geometric patterns | completed | Sync blink patterns with music |
