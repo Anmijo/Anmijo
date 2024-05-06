@@ -4,7 +4,7 @@
 - You can reach me via email (jo.hazboun@gmail.com) or [LinkedIn](https://www.linkedin.com/in/johnny-hazboun/).
 - I would welcome your feedback on my projects and suggestions for new features!
 
-### Project Status
+### Projects
 
 | Title | Description | Status | Future Steps |
 | --- | --- | --- | --- |
