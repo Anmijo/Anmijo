@@ -9,7 +9,7 @@
 | Title | Description |
 | --- | --- | 
 | [Plant-Timelapse](https://github.com/garamizo/Plant-Timelapse) | Records a timelapse of a plant and saves to a cloud storage | 
-| [Automated-Window-Blinds](https://github.com/garamizo/Automated-Window-Blinds) | Window blinds with hidden mechanism controlled over the cloud and Alexa commands |
+| [Self-Driving-Car](https://github.com/Anmijo/Self-Driving-Car) | Two wheel bluetooth control car with automatic safety features and self-driving capabilities |
 | [xmas-lights](https://github.com/garamizo/xmas-lights) | Animates a Christmas tree with colorful geometric patterns |
 | [Azul-Board-Game](https://github.com/garamizo/Azul-Board-Game) | AI recognizes board from images and plays against player with high skill |
 | [BipedRobot](https://github.com/garamizo/BipedRobot) | Build and Control of a Walking Robot |
