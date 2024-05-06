@@ -1,6 +1,6 @@
 ### About Me
 
-- I am a Computer Engineer who revels in building things! My main interests are Robotics, 3D-Printing, IoT, and Computer Vision :eyes:
+- I am a Computer Engineer who revels in building things! My main interests are IoT, Micro Controller, SBCs, Artificial Intelligence, Robotics, and 3D-Printing.
 - You can reach me via email (jo.hazboun@gmail.com) or [LinkedIn](https://www.linkedin.com/in/johnny-hazboun/).
 - I would welcome your feedback on my projects and suggestions for new features!
 
