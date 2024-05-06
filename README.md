@@ -10,7 +10,7 @@
 | --- | --- | 
 | [Nano-Master-Slave-IMU](https://github.com/Anmijo/Nano-Master-Slave-IMU) | Multiple Arduino Nanos taking commands from a phone to log IMU sensor data | 
 | [Self-Driving-Car](https://github.com/Anmijo/Self-Driving-Car) | Two wheel bluetooth control car with automatic safety features and self-driving capabilities |
-| [xmas-lights](https://github.com/garamizo/xmas-lights) | Animates a Christmas tree with colorful geometric patterns |
+| [ESP32-Server-Client-IMU](https://github.com/Anmijo/ESP32-Server-Client-IMU) | ESP32 MCU server and client protocol to log IMU data to train an ML model |
 
 <!--
 **Anmijo/Anmijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
