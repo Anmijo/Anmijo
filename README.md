@@ -15,6 +15,8 @@
 | [ESP32-Server-Client-IMU](https://github.com/Anmijo/ESP32-Server-Client-IMU) | ESP32 MCU server and client protocol to log IMU data to train an ML model |
 | [Geography-Game](https://github.com/Anmijo/Geography-Game) | A web game where players guess all the countries and capitals starting with a random letter |
 | [Safe-and-Lock](https://github.com/Anmijo/digital-lock) | A complete digital lock implementation on verilog to be flashed on an FPGA |
+| [PDF-Editor](https://github.com/Anmijo/pdf-editor) | Code to edit, scale and merge specific study material at the user's request |
+
 
 
 
