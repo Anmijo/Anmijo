@@ -9,11 +9,12 @@
 | Title | Description |
 | --- | --- | 
 | [Bkhidmitak](https://github.com/Anmijo/Bkhidmitak) | App to connect users with local service providers for various tasks in Jordan |
+| [Custom-CPU](https://github.com/Anmijo/Bkhidmitak) | A complete implementation of a single cycle 32 bit RISC-V CPU |
 | [Nano-Master-Slave-IMU](https://github.com/Anmijo/Nano-Master-Slave-IMU) | Multiple Arduino Nanos taking commands from a phone to log IMU sensor data | 
 | [Self-Driving-Car](https://github.com/Anmijo/Self-Driving-Car) | Two wheel bluetooth control car with automatic safety features and self-driving capabilities |
 | [ESP32-Server-Client-IMU](https://github.com/Anmijo/ESP32-Server-Client-IMU) | ESP32 MCU server and client protocol to log IMU data to train an ML model |
 | [Geography-Game](https://github.com/Anmijo/Geography-Game) | A web game where players guess all the countries and capitals starting with a random letter |
-| [Safe and Lock](https://github.com/Anmijo/Bkhidmitak) | A complete digital lock implementation on verilog to be flashed on an FPGA |
+| [Safe-and-Lock](https://github.com/Anmijo/Bkhidmitak) | A complete digital lock implementation on verilog to be flashed on an FPGA |
 
 
 
