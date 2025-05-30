@@ -9,6 +9,7 @@
 | Title | Description |
 | --- | --- | 
 | [AI Code Detector](https://github.com/Anmijo/AI-Code-Detector) | Final project for Graduate AI class creating an AI Code Detector that is 33% more accurate than current available options |
+| [Hazboun-Heritage-Website](https://github.com/Anmijo/Hazboun-Heritage-Website) | Website to connect members of the Hazboun family and preserve the family history and heritage |
 | [Bkhidmitak](https://github.com/Anmijo/Bkhidmitak) | App to connect users with local service providers for various tasks in Jordan |
 | [Custom-CPU](https://github.com/Anmijo/Custom-RISC-V-CPU) | A complete implementation of a single cycle 32 bit RISC-V CPU |
 | [Nano-Master-Slave-IMU](https://github.com/Anmijo/Nano-Master-Slave-IMU) | Multiple Arduino Nanos taking commands from a phone to log IMU sensor data | 
