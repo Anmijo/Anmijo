@@ -8,9 +8,9 @@
 
 | Title | Description |
 | --- | --- | 
-
-| [Self-Stabilizing Platform](https://github.com/svermaP/stars-polaris) | An ASIC implementation of a self-stabilizing platform and ball balancer |
-| [AI Code Detector](https://github.com/Anmijo/AI-Code-Detector) | Final project for Graduate AI class creating an AI Code Detector that is 33% more accurate than current available options |
+| [AI-Tetris](https://github.com/mixuanpan/starboy) | A hardware implementation of Tetris with an AI accelerator inferring a reinforcement learning ML model that beats 99% of players. |
+| [Self-Stabilizing-Platform](https://github.com/svermaP/stars-polaris) | An ASIC implementation of a self-stabilizing platform and ball balancer that is being taped out|
+| [AI-Code-Detector](https://github.com/Anmijo/AI-Code-Detector) | Final project for Graduate AI class creating an AI Code Detector that is 33% more accurate than current available options |
 | [Hazboun-Heritage-Website](https://github.com/Anmijo/Hazboun-Heritage-Website) | Website to connect members of the Hazboun family and preserve the family history and heritage |
 | [Bkhidmitak](https://github.com/Anmijo/Bkhidmitak) | App to connect users with local service providers for various tasks in Jordan |
 | [Custom-CPU](https://github.com/Anmijo/Custom-RISC-V-CPU) | A complete implementation of a single cycle 32 bit RISC-V CPU |
